@@ -4,7 +4,7 @@ This command brings duplicate text functionality which you may be used to in oth
 
 ## Features
 
-- When nothing is selected, the whole line is duplicated and caret is placed on the lower line
+- When nothing is selected, the whole line is duplicated and the cursor is placed on the lower line
 - When text is selected, the selection is duplicated and the new copy is selected
 - Works with multiple selections
 - Works in any document

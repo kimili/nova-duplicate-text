@@ -3,11 +3,12 @@
   "name": "Duplicate Text",
   "organization": "Kimili",
   "description": "Duplicate a line of text or a selection with a keystroke.",
-  "version": "1.0",
+  "version": "1.0.1",
   "categories": ["commands"],
   "repository": "https://github.com/kimili/nova-duplicate-text",
   "bugs": "https://github.com/kimili/nova-duplicate-text/issues",
   "main": "main.js",
+  "license": "MIT",
   "homepage": "https://kimili.com",
   "commands": {
     "editor": [
