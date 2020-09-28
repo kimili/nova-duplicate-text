@@ -1,0 +1,22 @@
+{
+  "identifier": "com.kimili.DuplicateText",
+  "name": "Duplicate Text",
+  "organization": "Kimili",
+  "description": "Duplicate a line of text or a selection with a keystroke.",
+  "version": "1.0",
+  "categories": ["commands"],
+  "repository": "https://github.com/kimili/nova-duplicate-text",
+  "bugs": "https://github.com/kimili/nova-duplicate-text/issues",
+  "main": "main.js",
+  "homepage": "https://kimili.com"
+  "commands": {
+    "editor": [
+      {
+        "title": "Duplicate Text",
+        "when": "editorHasFocus",
+        "shortcut": "cmd-shift-d",
+        "command": "duplicateText"
+      }
+    ]
+  }
+}
