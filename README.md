@@ -1,6 +1,6 @@
 # Duplicate Text for Nova
 
-This command brings duplicate text functionality which you may be used to in other editors to Nova.
+This command brings duplicate text functionality which you may be used to from other editors to Nova.
 
 ## Features
 
