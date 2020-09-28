@@ -8,7 +8,7 @@
   "repository": "https://github.com/kimili/nova-duplicate-text",
   "bugs": "https://github.com/kimili/nova-duplicate-text/issues",
   "main": "main.js",
-  "homepage": "https://kimili.com"
+  "homepage": "https://kimili.com",
   "commands": {
     "editor": [
       {
